@@ -1,0 +1,2 @@
+# IdleGain
+Idle / Clicker game
